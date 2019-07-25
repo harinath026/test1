@@ -1,5 +1,4 @@
 
-		system.out.println("hello java file invites you # form  harinath");
 class hello #from harry
 {
 	public static void main () #from harry
