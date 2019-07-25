@@ -1,9 +1,8 @@
-
-class hello
+class hello #from harinath
 {
-	public static void main ()
+	public static void main () #from harinath
 	{
 		system.out.println("hello ");
-		system.out.println("hello world");
+		system.out.println("hello java file invites you # form  harinath");
 	}
 }
